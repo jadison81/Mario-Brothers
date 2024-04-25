@@ -1,2 +1,2 @@
 # Mario Brothers
- Criação de uma página para solicitar orçamento
+ Criação de uma página para solicitar orçamento, me deparei que quando abro no computador, fica ok, mas no celular, fica tudo errado...
